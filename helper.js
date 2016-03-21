@@ -1,3 +1,5 @@
+"use strict";
+
 process.nextTick(() => {
   require('safeguards').noSynchronousIO(require.main)
 })
