@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b285661e-1add-4afa-946e-22aed82f39b1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rm.js" afterPath="$PROJECT_DIR$/rm.js" />
-    </list>
+    <list default="true" id="b285661e-1add-4afa-946e-22aed82f39b1" name="Default" comment="" />
     <ignored path="nodejs-clis-starter.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

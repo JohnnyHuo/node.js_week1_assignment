@@ -2,7 +2,7 @@
 
 This is a CLI Utilities library for Node.js submitted as [Assignment 1](http://courses.codepath.com/courses/nodejs_fast_track/unit/1#!assignment) for CodePath.
 
-Time spent: [Write the number of hours you spend here]
+Time spent: [8 hours]
 
 Completed:
 
